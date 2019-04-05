@@ -2,7 +2,13 @@
 # Protokoll der Gründungsversammlung des Chaos Computer Club Potsdam e.V. (CCCP)
 
 Am  heutigen Mittwoch, dem 10.4.2019, versammelten sich um 20.00 Uhr,
-im Freiland, Haus 5, Friedrich-Engels-Str. 22, 14473 Potsdam, die in der als Anlage [1] beigefügten Anwesenheitsliste mit Namen, Anschrift und Geburtsdatum genannten Personen. 
+im 
+
+    Freiland, Haus 5,
+    Friedrich-Engels-Str. 22,
+    14473 Potsdam,
+    
+die in der als Anlage [1] beigefügten Anwesenheitsliste mit Namen, Anschrift und Geburtsdatum genannten Personen. 
 
 
 Um 20.00 Uhr begrüßten Christoph (Philipp) Sterz, Sven Köhler und Stephan Schütze die Erschienenen und fragen, ob alle an der Gründung des Chaos Computer Club Potsdam e.V. teilnehmen wollen. Dies wurde einhellig bejaht.
@@ -14,7 +20,8 @@ Herr Schütze schlug als Wahlverfahren für alle Abstimmungen, das Abstimmen dur
 ((+) für Zustimmung, (-) für Ablehnung und (o) für Enthaltungen)
 Dem wurde allseits mündlich zugestimmt.
 
-/* ?Abstimmung zur Tagesordnung ?
+/* ?
+Herr Schütze schlug als Punkte der Tagesordnung (TOP) vor:
 
 **Tagesordnung**
 
@@ -25,6 +32,10 @@ Dem wurde allseits mündlich zugestimmt.
 4. Rückfinanzierung der Gründungskosten sowie weiterer Auslagen
 ? Festlegung der Mitgliedsbeiträge ??
 
+
+?Abstimmung zur Tagesordnung ??
+(+,-,o)
+Die Anwesenden stimmten der Tagesordnung einstimmig zu. 
 
 */
 
