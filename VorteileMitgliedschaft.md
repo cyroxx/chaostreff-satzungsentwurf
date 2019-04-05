@@ -11,4 +11,4 @@
  
 *Zukünftig*
   * Server Colo (wenn wir gutes Inet kriegen) 
-  * Rabatt am KaltMateAutomaten (wollen wir gern haben)
+  * Rabatt am KaltMateAutomaten (wollen wir gern bauen/haben)
