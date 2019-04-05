@@ -21,10 +21,12 @@
  (1) Die Zahlung des Beitrages erfolgt monatlich per Überweisung auf das Konto des CCCP e.V. Es wird empfohlen, einen Dauerauftrag einzurichten.
  
  (2) Alternativ zu Abs. (1) kann nach Absprache eine Barzahlung an den Kassenwart erfolgen.
+ ## $ 4 Säumnis
+ Im Säumnisfall wird das Mitglied nach dreimonatigem Ausbleiben des Beitrags gemahnt. Zahlt ein Mitglied trotz zweifacher Mahnung (in Textform) oder länger als drei Monate den Beitrag nicht, so gilt nach Ablauf eines Monates nach der zweiten Mahnung die Nichtzahlung als Austritt. In der zweiten Mahnung ist auf die Folgen der Nichtzahlung hinzuweisen. 
  
- ## § 4  Aufnahmegebühren
+ ## § 5  Aufnahmegebühren
   Aufnahmegebühren werden nicht erhoben.
- ## § 5  Erstattungen
+ ## § 6  Erstattungen
   Eine Erstattung von Mitgliedsbeiträgen findet nicht statt.
 
 `issue: hier kommt vermutlich mehr Rechts-Foo hin`
