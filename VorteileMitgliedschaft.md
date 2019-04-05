@@ -1,6 +1,6 @@
 # Vorteile der Mitgliedschaft
 *Sofort*
- * Mitsprache zu Investitionen (z.Bsp. für den Space)(logisch)
+ * Mitsprache zu Investitionen und Aktionen (z.Bsp. für den Space)(logisch)
  * Schlüssel/Zugang zum Space und allen Geräten
  * Lagermöglichkeit für eigene Projekte
  * Interne Events & Infos aus dem CCC
