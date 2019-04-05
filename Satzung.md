@@ -3,7 +3,7 @@
 Satzung des Vereins
 Chaos Computer Club Potsdam e. V. (CCCP)
 
-Errichtet am 10. April 19 in Potsdam
+Errichtet am 10. April 2019 in Potsdam
 
 
 
