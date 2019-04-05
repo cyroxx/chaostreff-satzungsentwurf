@@ -59,7 +59,9 @@ Errichtet am 10. April 19 in Potsdam
 (3) Der Vorstand besteht aus
 
 dem 1. Vorsitzenden und
-dem 2. Vorsitzenden
+
+dem 2. Vorsitzenden und
+
 dem Schatzmeister.
 
 Diese werden von der Mitgliedsversammlung gewählt und sind Vorstand im Sinne des § 26 BGB. Sie vertreten den Verein `issue: /* jeweils allein */` gerichtlich und außergerichtlich.
