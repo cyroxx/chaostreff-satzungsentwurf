@@ -19,7 +19,7 @@ Errichtet am 10. April 19 in Potsdam
 
 ## § 2 Mitgliedschaft
 
-(1) Die Mitgliedschaft im Verein steht allen natürlichen und juristischen Personen offen, die den Vereinszweck zu fördern in der Lage sind. Sie wird durch Antrag beim Vorstand erworben, der diesen Antrag allen Mitgliedern binnen vier Wochen nach Eingang bekanntzumachen hat. Erhebt binnen zwei Wochen nach Absendung der Mitteilung kein Mitglied Widerspruch gegenüber einem Vorstandsmitglied, so stimmt der Vorstand über den Antrag ab und teilt dem Antragsteller die Aufnahme oder Ablehnung mit. Hat ein Mitglied Widerspruch erhoben, so entscheidet die Mitgliedsversammlung über den Aufnahmeantrag. Juristische Personen, deren gesetzliche Vertreter Mitglieder des Vereins sind, können ohne Anwendung von Fristen durch Beschluss von Vorstand oder Mitgliedsversammlung aufgenommen werden.
+(1) Die Mitgliedschaft im Verein steht allen natürlichen und juristischen Personen offen, die den Vereinszweck zu fördern in der Lage sind. Sie wird durch Antrag beim Vorstand erworben, `issue: Datenschutz Name&Aufnahmedauer, der diesen Antrag allen Mitgliedern binnen vier Wochen nach Eingang bekanntzumachen hat. Erhebt binnen zwei Wochen nach Absendung der Mitteilung kein Mitglied Widerspruch gegenüber einem Vorstandsmitglied, so stimmt der Vorstand über den Antrag ab und teilt dem Antragsteller die Aufnahme oder Ablehnung mit.` Hat ein Mitglied Widerspruch erhoben, so entscheidet die Mitgliedsversammlung über den Aufnahmeantrag. Juristische Personen, deren gesetzliche Vertreter Mitglieder des Vereins sind, können ohne Anwendung von Fristen durch Beschluss von Vorstand oder Mitgliedsversammlung aufgenommen werden.
 
 (2) Die Mitgliedschaft endet:
 
